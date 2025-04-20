@@ -67,7 +67,7 @@ npm run dev
 - **GitHub Pages** (untuk hosting)
 
 ## 📌 Live Demo
-Kunjungi: [bvpspite.github.io/Fabrilio](https://bvpspite.github.io/Fabrilio/)
+Kunjungi: [bvpspite.github.io/Fabrilio]([https://bvpspite.github.io/Fabrilio/](https://bvspsite.github.io/Fabrilio/))
 
 ---
 
